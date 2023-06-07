@@ -1,2 +1,0 @@
-# Chatservidor
-sistema de chat 
